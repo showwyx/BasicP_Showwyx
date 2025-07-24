@@ -25,7 +25,6 @@ while True:
     else:
         print ("bro just choose 1,2")
 
-
 if fight == True:
     health = 100
     for i in range (nextfight):
