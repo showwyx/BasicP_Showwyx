@@ -58,11 +58,13 @@
 # ]
 # print (f"player info: {player[2]}")
 
-student_money = [
-    {"name":"show","money":"999"},
-    {"name":"three","money":"50"},
-    {"name":"karn","money":"10"}
-]
+# student_money = [
+#     {"name":"show","money":"999"},
+#     {"name":"three","money":"50"},
+#     {"name":"karn","money":"10"}
+# ]
 
-def checkMoney():
-    for 
+# def checkMoney():
+#     for 
+
+print("1. แสดง\nfefef")
